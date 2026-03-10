@@ -5,9 +5,8 @@ behaviour analysis, classification modelling, and data analysis.
 
 ## Projects
 
-### 1. Customer Behaviour Classification
-- Built Logistic Regression and Random Forest models to predict 
-  customer segments
+### 1. Loan Approval Analysis
+-  Built classification models to predict loan approval outcomes
 - Achieved ROC-AUC of 0.87 with Random Forest
 - Tools: Python, scikit-learn, Pandas, Matplotlib
 
